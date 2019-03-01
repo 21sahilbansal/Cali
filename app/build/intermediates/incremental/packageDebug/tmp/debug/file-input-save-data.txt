@@ -1,0 +1,7 @@
+#Internal package file, do not edit.
+#Fri Mar 01 13:25:04 IST 2019
+0.baseType=DIRECTORY
+0.base=D\:\\New folder\\AdvancedAndroid_Squawker-develop_branch\\Calci\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\0
+0.path=classes.dex
+0.set=DEX
+count=1
